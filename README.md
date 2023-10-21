@@ -1,4 +1,4 @@
 
-Live Demo : [Quote Generator](https://quote-generator-vanilajs.netlify.app/)
+## Live Demo : [Quote Generator](https://quote-generator-vanilajs.netlify.app/)
 
-# Quote-Generator
+# Quote-Generator-vanilaJS
